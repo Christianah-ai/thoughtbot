@@ -1,0 +1,340 @@
+ *{
+margin: 0px;
+padding: 0px;
+box-sizing:border-box;
+}
+
+body{
+    background-color: #201313;
+    text-align: left;
+    padding-left: 190px;
+    padding-right:190px; 
+    color: #FAF9F9;
+}
+
+.header{
+    margin-top:150px;
+    color:#FAF9F9;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:20px ;
+    font-weight: 300;
+
+}
+
+.button-Topics{
+     margin-top: 30px;
+    text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
+    border: 1px solid;
+    width: 140px;
+    height: 40px;
+    color:#201313;
+    background-color: #FFC726;
+    margin-right: 10px;
+
+}
+
+.button-Design{
+    text-align: center;
+    font-size:20px ;
+    border-radius: 15px;
+    border: 1px solid;
+    width: 140px;
+    height: 40px;
+    background-color:#201313;
+    color: #E4E5DF;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.button-Development{
+    text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
+    border: 1px solid;
+    width: 140px;
+    height: 40px;
+    background-color: #201313;
+    color: #E4E5DF;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.button-Product{
+  text-align: center;
+    font-size: 20px;
+    border-radius: 15px;
+    border: 1px solid;
+    width: 140px;
+    height: 40px;
+    background-color: #201313;
+    color: #E4E5DF;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.button-More topics{
+      background-color: #201313;
+    text-align: left;
+    padding-left: 190px;
+    padding-right:190px; 
+    
+}
+.list{
+    text-align: center;
+   font-size: 20px;
+    display: inline;
+    color:#E4E5DF ;
+    text-decoration: dotted underline;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+ .header2{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #FAF9F9;
+ }
+ .container{
+    margin-top: 10px;
+font-family: Arial, Helvetica, sans-serif;
+font-size: 20px;
+font-weight: 400;
+color: #E4E5DF;
+ }
+
+
+  .text2{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+font-size: 18px;
+font-weight: 700;
+color: #FFC726;
+text-decoration: none;
+  }
+ .button-markdown{
+    margin-top: 10px;
+  text-align: center;
+  font-family: monospace;
+    font-size: 13px;
+    font-weight: 700;
+    border-radius: 15px;
+    border: 1px solid;
+    width: 140px;
+    height: 40px;
+    background-color: #201313;
+    color: #E4E5DF;
+    margin-right: 10px;
+    margin-left: 10px;
+
+}
+.para{
+    margin-top: 30px;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FAF9F9;
+}
+.More{
+    margin-top: 10px;
+    font-family: monospace;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC726;
+    margin-left: 50px;
+    text-decoration: dotted underline;
+    height: 4px;
+      
+    
+}
+
+.div{
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    color:  #FAF9F9;;
+    font-size: 32px;
+    font-weight: 700;
+
+}
+
+.pa{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.time{
+    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFC726;
+    text-decoration: none;
+}
+
+.time2{
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    font-weight: 700;
+    color: #FAF9F9;
+}
+
+
+
+.my{
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+    color: #FAF9F9;
+}
+.p{
+    margin-top: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FAF9F9;
+}
+
+.design{
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: #FFC726;
+    text-decoration: none;
+}
+.min{
+    margin-top: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: #FAF9F9;
+}
+.by{
+    margin-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 31px;
+    font-weight: 700;
+    color: #FAF9F9;
+    text-decoration: none;
+}
+    .bo{
+        margin-top: 20px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        color: #FAF9F9;
+    }
+    .on{
+        margin-top: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 18px;
+        font-weight: 700;
+        color: #FFC726;
+        text-decoration: none;
+    }
+
+    .me{
+        margin-top: 20px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-size: 15px;
+        font-weight: 700;
+        color: #FAF9F9;
+    }
+
+        .ox{
+            margin-top: 40px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 31px;
+            font-weight: 700;
+        }
+
+        .work{
+            margin-top: 10px;
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            font-size: 20px;
+            font-weight: 400;
+        }
+        .love{
+            margin-top: 20px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: #FFC726;
+            text-decoration: none;
+        }
+
+        .gain{
+            margin-top: 15px;
+            font-size: 18px;
+            font-weight: 700;
+            color: #FAF9F9;
+        }
+        .of{
+            margin-top: 50px;
+            font-size: 32px;
+            font-weight: 700;
+            color: #E4E5DF;
+            text-decoration: none;
+        }
+        .in{
+            margin-top: 15px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+            font-weight: 400px;
+        
+        }
+        .am{
+            margin-top: 12px;
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            color: #FFC726;
+            text-decoration: none;
+        }
+    .christ{
+        margin-top: 12px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 18px;
+        font-weight: 400px;
+        color: #E4E5DF;
+
+    }
+    .look{
+        margin-top: 50px;
+        font-family:Arial, Helvetica, sans-serif;
+        font-size: 31px;
+        font-weight: 700px;
+        color: #FAF9F9;
+        text-decoration: none;
+        
+    }
+
+    .chris{
+        margin-top: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: 400px;
+        color: #FAF9F9;
+    }
+    
+    .loss{
+        margin: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: 400;
+        color: #FFC726;
+        text-decoration: none;
+    }
+    .band{
+        margin-top: 10px;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 20px;
+        font-weight: 700;
+        color: #E4E5DF;
+    }
